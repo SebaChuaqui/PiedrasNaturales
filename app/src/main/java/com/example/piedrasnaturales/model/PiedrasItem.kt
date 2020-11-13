@@ -1,4 +1,4 @@
-
+package com.example.piedrasnaturales.model
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 import com.google.gson.annotations.SerializedName
@@ -8,14 +8,14 @@ data class PiedrasItem(
     @PrimaryKey
     @SerializedName("codigo")
     val codigo: String,
-    @SerializedName("Detalle del Producto")
+    @SerializedName("detalle del producto")
     val detalleDelProducto: String,
     @SerializedName("id")
     val id: Int,
     @SerializedName("image")
     val image: String,
-    @SerializedName("Nombre Producto")
+    @SerializedName("nombre producto")
     val nombreProducto: String,
-    @SerializedName("Precio")
-    val precio: Int
+    @SerializedName("precio")
+    val precio: String
 )

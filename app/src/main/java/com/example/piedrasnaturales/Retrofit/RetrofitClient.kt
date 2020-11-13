@@ -8,7 +8,7 @@ class RetrofitClient {
 
     companion object{
 
-        private const val URL_BASE = "http://my-json-server.typicode.com/SebaChuaqui/Zadik/"
+        private const val URL_BASE = "https://my-json-server.typicode.com/SebaChuaqui/PiedrasNaturales/"
 
         fun getRetroJoyas(): ApiJoyas{
 
