@@ -11,7 +11,7 @@ private const val DATA_BASE_NAME="joyas_db"
 
 abstract class JoyasDB : RoomDatabase() {
 
-    abstract fun getClimaDAO(): JoyasDAO
+    abstract fun getJoyasDAO(): JoyasDAO
 
     companion object {
 

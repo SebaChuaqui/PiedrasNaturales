@@ -1,6 +1,7 @@
 package com.example.piedrasnaturales.model
 
 import android.util.Log
+import androidx.lifecycle.LiveData
 import com.example.piedrasnaturales.Retrofit.RetrofitClient
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
@@ -44,6 +45,30 @@ class Repository(private val mJoyasDAO: JoyasDAO) {
             }
 
         })
+    }
+
+    fun getOneByCodigo(codigo: String): LiveData<PiedrasItem>{
+        return mJoyasDAO.getCodigoByID(codigo)
+    }
+
+    fun getOneByImage(image: String): LiveData<PiedrasItem>{
+        return mJoyasDAO.getImageByID(image)
+    }
+
+    fun getOneByName(name: String): LiveData<PiedrasItem>{
+        return mJoyasDAO.getProductoByID(name)
+    }
+
+    fun getOneByPrecio(precio: String): LiveData<PiedrasItem>{
+        return mJoyasDAO.getPrecioByID(precio)
+    }
+
+    fun getOneByID(id: Int): LiveData<PiedrasItem>{
+        return mJoyasDAO.getByID(id)
+    }
+
+    fun getOneDetalles(detalleDelProducto: String): LiveData<PiedrasItem>{
+        return mJoyasDAO.getDetalleByID(detalleDelProducto)
     }
 
 }

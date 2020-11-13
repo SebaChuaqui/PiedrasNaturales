@@ -15,6 +15,9 @@ interface JoyasDAO {
     @Query("SELECT * FROM joyas_table")
     fun getAllJoyasFromDB(): LiveData<List<PiedrasItem>>
 
+    @Query("SELECT * FROM joyas_table WHERE id:=mId")
+    fun getByID(mId: Int): LiveData<PiedrasItem>
+
     @Query("SELECT * FROM joyas_table WHERE codigo=:mCodigo")
     fun getCodigoByID(mCodigo: String): LiveData<PiedrasItem>
 
