@@ -7,6 +7,14 @@
       "nombre producto": "Jaspe rojo / turquesa",
       "precio": "4900",
       "detalle del producto": ""
+    },
+        {
+       "id": 2,
+      "image": "https://lh3.googleusercontent.com/nrgIlagekwKC0yrRowB30uNn-F_zeb6Eo8XgXBReFzp10DKDryrAiLheH__wkiyodxdCgCqNlZ1XHLLVEhvuUJ1Wigdyf5AHNO1Zip8V2wMsRnbk1XkfgJIYkue6LrKiJ-1FWITBNW79TN8Njs_91YT8ek5hiw7oRRNJ9EUkDYwzGoNQAd65jsfX3hHcXNmn6fbTuNdOzuZMdwZSYbKD6QtiAVgZaZyv5taatvv43BGO8hAAlFyR7yiBkrcQPcuLh-e8AueosLFD779vU6mxZ1MSudCbXslSfn9yT7yQo3Il_jKFBh3AoUWs5M1cb8yijw0eXFJvtlegr10itDWhkAu-BpFdKd9VakMj6mVNyBGp4h7SioEMcua6K0YNkrW009HCxWzVZCkTPcYGsJ--XD_rjqztTnQNPN0R3kHN09pWl7I653lQOMzzD6b68cIi5keP7T26QhdOeynWAkCZH6_2zK-eluZMqRrF8iJdOFWKK184WS7tQrtrZaGvRGd40HDWeXMvwFlQDpqscVtfPmWk4kimqta80FuH32HpoSC1cuF8Pi5RTPR-65eX-aIfjetJ8FJVL44QEXMokhNk_I_WdW8hJubozC3hNn9XutZWrudOwGBV7fmTqu-njtXhxr_UnH4hqVgQbFXOXXfSkMiGRfsWUgEaxngmQDoisOnYgoaL7nRly8LOQIt3Vw=w352-h600-no?authuser=0",
+      "codigo": "ZP-02",
+      "nombre producto": "Ojo de Tigre",
+      "precio": "6900",
+      "detalle del producto": "" 
     }
   ]
 }
