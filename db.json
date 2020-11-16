@@ -5,7 +5,7 @@
       "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ01.jpg?raw=true",
       "codigo": "ZP-01",
       "nombre producto": "Jaspe rojo / turquesa",
-      "precio": "4900",
+      "precio": "$4900",
       "detalle del producto": ""
     },
    {
@@ -13,7 +13,7 @@
       "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ02.jpg?raw=true",
       "codigo": "ZP-02",
       "nombre producto": "Ojo de Tigre",
-      "precio": "6900",
+      "precio": "$6900",
       "detalle del producto": "" 
     }
   ]
