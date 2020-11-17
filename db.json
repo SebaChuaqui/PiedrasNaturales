@@ -2,11 +2,51 @@
   "joyas": [
     {
       "id": 1,
-      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/ZP%2001.jpg",
-      "codigo": "ZP-01",
-      "nombre producto": "Pulsera piedras naturales jaspe rojo con turquesa",
-      "precio": "4900",
-      "detalle del producto": ""    
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ01-removebg-preview.png?raw=true",
+      "codigo": "PZ-01",
+      "nombre producto": " Pulsera Jaspe rojo / turquesa",
+      "precio": "$4900",
+      "detalle del producto": ""
+    },
+   {
+       "id": 2,
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ_02_otra-removebg-preview.png?raw=true",
+      "codigo": "PZ-02",
+      "nombre producto": "Pulsera Ojo de Tigre",
+      "precio": "$6900",
+      "detalle del producto": "" 
+    },
+    {
+      "id": 3,
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ_03-removebg-preview.png?raw=true",
+      "codigo": "PZ-03",
+      "nombre producto": "Pulsera de Cornalina",
+      "precio": "$5900",
+      "detalle del producto": ""
+    },
+    {
+      "id": 4,
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ_4_otra-removebg-preview.png?raw=true",
+      "codigo": "PZ-04",
+      "nombre producto": "Pulsera Amatista",
+      "precio": "$5900",
+      "detalle del producto": ""
+    },
+    {
+      "id": 5,
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ05-removebg-preview.png?raw=true",
+      "codigo": "PZ-05",
+      "nombre producto": "Pulsera Lapislazuli",
+      "precio": "$13900",
+      "detalle del producto": ""
+    },
+    {
+      "id": 6,
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ_06-removebg-preview.png?raw=true",
+      "codigo": "PZ-06",
+      "nombre producto": "Pulsera Ojo de Tigre / Citrino",
+      "precio": "$8900",
+      "detalle del producto": ""
     }
-    ]
+  ]
 }
