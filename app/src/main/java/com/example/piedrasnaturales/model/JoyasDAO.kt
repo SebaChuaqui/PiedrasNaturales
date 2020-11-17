@@ -9,7 +9,7 @@ import androidx.room.Query
 @Dao
 interface JoyasDAO {
 
-    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    @Insert(onConflict = OnConflictStrategy.IGNORE)
     fun insertAllJoyas(mJoyasList: List<PiedrasItem>)
 
     @Query("SELECT * FROM joyas_table")

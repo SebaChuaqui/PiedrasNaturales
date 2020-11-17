@@ -11,6 +11,7 @@ import android.widget.Toast
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
+import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.piedrasnaturales.Adapter.JoyasAdapter
 import com.example.piedrasnaturales.MyViewModel.JoyasViewModel
@@ -43,7 +44,7 @@ class FirstFragment : Fragment(), JoyasAdapter.Joyas {
         val mAdapter = JoyasAdapter(this)
 
         mRecyclerView.adapter = mAdapter
-        mRecyclerView.layoutManager = LinearLayoutManager(context)
+        mRecyclerView.layoutManager = GridLayoutManager(context, 2)
 
         mJoyasViewModel.mAllJoyitas.observe(viewLifecycleOwner, Observer{
             mAdapter.updateListJoyas(it)
@@ -56,6 +57,7 @@ class FirstFragment : Fragment(), JoyasAdapter.Joyas {
         val mBundle = Bundle()
         mBundle.putString("imagen", mJoyas.image)
         mBundle.putString("Producto", mJoyas.nombreProducto)
+        mBundle.putString("Codigo", mJoyas.codigo)
         mBundle.putString("Precio", mJoyas.precio)
         findNavController().navigate(R.id.action_FirstFragment_to_SecondFragment, mBundle)
     }

@@ -24,6 +24,7 @@ class JoyasAdapter(var mPassJoyas: FirstFragment): RecyclerView.Adapter<JoyasAda
 
         val mimagen = itemView.image
         val mproducto = itemView.nombre
+        val mcodigo = itemView.codigo
         val mprecio = itemView.precio
         val itemview = itemView.setOnClickListener(this)
 
@@ -42,6 +43,7 @@ class JoyasAdapter(var mPassJoyas: FirstFragment): RecyclerView.Adapter<JoyasAda
 
         val mJoya = dataList[position]
         holder.mproducto.text = mJoya.nombreProducto
+        holder.mcodigo.text = mJoya.codigo
         holder.mprecio.text = mJoya.precio
         Glide.with(holder.itemView.context)
             .load(mJoya.image)
