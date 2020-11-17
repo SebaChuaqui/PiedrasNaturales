@@ -37,7 +37,7 @@ class JoyasViewModel(application: Application): AndroidViewModel(application) {
         return mRepository.getOneByPrecio(precio)
     }
 
-    fun getOneID(id: Int): LiveData<PiedrasItem>{
+    fun getOneID(id: String?): LiveData<PiedrasItem>{
         return mRepository.getOneByID(id)
     }
 

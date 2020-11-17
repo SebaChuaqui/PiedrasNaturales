@@ -57,6 +57,7 @@ class FirstFragment : Fragment(), JoyasAdapter.Joyas {
         val mBundle = Bundle()
         mBundle.putString("imagen", mJoyas.image)
         mBundle.putString("Producto", mJoyas.nombreProducto)
+        mBundle.putString("Detalle", mJoyas.detalleDelProducto)
         mBundle.putString("Codigo", mJoyas.codigo)
         mBundle.putString("Precio", mJoyas.precio)
         findNavController().navigate(R.id.action_FirstFragment_to_SecondFragment, mBundle)

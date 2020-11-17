@@ -63,7 +63,7 @@ class Repository(private val mJoyasDAO: JoyasDAO) {
         return mJoyasDAO.getPrecioByID(precio)
     }
 
-    fun getOneByID(id: Int): LiveData<PiedrasItem>{
+    fun getOneByID(id: String?): LiveData<PiedrasItem>{
         return mJoyasDAO.getByID(id)
     }
 
