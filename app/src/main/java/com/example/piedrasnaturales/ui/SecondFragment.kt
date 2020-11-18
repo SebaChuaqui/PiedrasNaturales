@@ -44,6 +44,7 @@ class SecondFragment : Fragment() {
                 if (it != null) {
                     Glide.with(this).load(it.image).into(imageView)
                     producto.text = it.nombreProducto
+                    valor.text = it.precio
                     detalle.text = it.detalleDelProducto
                     Log.d("OBSERVADO", it.toString())
                 }

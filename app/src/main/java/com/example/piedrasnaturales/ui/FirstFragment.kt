@@ -55,6 +55,7 @@ class FirstFragment : Fragment(), JoyasAdapter.Joyas {
 
     override fun passJoyas(mJoyas: PiedrasItem) {
         val mBundle = Bundle()
+        mBundle.putInt("id", mJoyas.id)
         mBundle.putString("imagen", mJoyas.image)
         mBundle.putString("Producto", mJoyas.nombreProducto)
         mBundle.putString("Detalle", mJoyas.detalleDelProducto)
