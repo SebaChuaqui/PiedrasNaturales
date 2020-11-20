@@ -48,7 +48,6 @@
       "precio": "$8900",
       "detalle del producto": ""
     },
-    
     {
       "id": 7,
       "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ_07-removebg-preview.png?raw=true",
@@ -57,7 +56,21 @@
       "precio": "$5900",
       "detalle del producto": ""
     },
-    
-    
+    {
+      "id": 8,
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ_08-removebg-preview.png?raw=true",
+      "codigo": "PZ-08",
+      "nombre producto": "Pulsera Onix / Coral / Volcanita Blanca",
+      "precio": "$6900",
+      "detalle del producto": ""
+    },
+    {
+      "id": 9,
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ_09-removebg-preview.png?raw=true",
+      "codigo": "PZ-09",
+      "nombre producto": "Pulsera Onix / 7 Chakras / Metal Fantasía",
+      "precio": "$5900",
+      "detalle del producto": ""
+    }  
   ]
 }
