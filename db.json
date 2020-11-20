@@ -71,6 +71,30 @@
       "nombre producto": "Pulsera Onix / 7 Chakras ",
       "precio": "$5900",
       "detalle del producto": ""
-    }  
+    },
+    {
+      "id": 10,
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ_10-removebg-preview.png?raw=true",
+      "codigo": "PZ-10",
+      "nombre producto": "Pulsera Cuarzo Rosa",
+      "precio": "$6900",
+      "detalle del producto": ""
+    },
+    {
+      "id": 11,
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ_11-removebg-preview.png?raw=true",
+      "codigo": "PZ-11",
+      "nombre producto": "Pulsera Cuarzo Rosa / Lapislazuli",
+      "precio": "$9900",
+      "detalle del producto": ""
+    },
+    {
+      "id": 12,
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ_12-removebg-preview.png?raw=true",
+      "codigo": "PZ-12",
+      "nombre producto": "Pulsera Sodalita",
+      "precio": "$5900",
+      "detalle del producto": ""
+    }
   ]
 }
