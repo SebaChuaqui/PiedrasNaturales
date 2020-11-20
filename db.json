@@ -47,6 +47,17 @@
       "nombre producto": "Pulsera Ojo de Tigre / Citrino",
       "precio": "$8900",
       "detalle del producto": ""
-    }
+    },
+    
+    {
+      "id": 7,
+      "image": "",
+      "codigo": "PZ-07",
+      "nombre producto": "Pulsera Ojo de Tigre / Onix",
+      "precio": "$5900",
+      "detalle del producto": ""
+    },
+    
+    
   ]
 }
