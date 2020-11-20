@@ -47,6 +47,22 @@ class Repository(private val mJoyasDAO: JoyasDAO) {
         })
     }
 
+    fun getDataFromNetWorkCoroutines() = CoroutineScope(Dispatchers.IO).launch {
+        val service = kotlin.runCatching { service.getDataFromApiCoroutines() }
+        service.onSuccess {
+            when(it.code()) {
+                in 200..299 -> CoroutineScope(Dispatchers.IO).launch {
+                    it.body()?.let {
+                    mJoyasDAO.insertAllJoyas(it)
+                    }
+                }
+            }
+        }
+        service.onFailure {
+            Log.d("ERROR", it.message.toString())
+        }
+    }
+
     fun getOneByCodigo(codigo: String): LiveData<PiedrasItem>{
         return mJoyasDAO.getCodigoByID(codigo)
     }
