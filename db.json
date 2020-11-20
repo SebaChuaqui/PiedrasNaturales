@@ -95,6 +95,62 @@
       "nombre producto": "Pulsera Sodalita",
       "precio": "$5900",
       "detalle del producto": ""
+    },
+    {
+      "id": 13,
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ_13-removebg-preview.png?raw=true",
+      "codigo": "PZ-13",
+      "nombre producto": "Pulsera Turquesa / Amatista",
+      "precio": "$4900",
+      "detalle del producto": ""
+    },
+    {
+      "id": 14,
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ_14-removebg-preview.png?raw=true",
+      "codigo": "PZ-14",
+      "nombre producto": "Pulsera Piedra Volcánica",
+      "precio": "$4900",
+      "detalle del producto": ""
+    },
+    {
+      "id": 15,
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ_15-removebg-preview.png?raw=true",
+      "codigo": "PZ-15",
+      "nombre producto": "Pulsera 7 Chakras",
+      "precio": "$9900",
+      "detalle del producto": ""
+    },
+    {
+      "id": 16,
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ_16-removebg-preview.png?raw=true",
+      "codigo": "PZ-16",
+      "nombre producto": "Pulsera Labradorita",
+      "precio": "$6900",
+      "detalle del producto": ""
+    },
+    {
+      "id": 17,
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ_17-removebg-preview.png?raw=true",
+      "codigo": "PZ-17",
+      "nombre producto": "Pulsera Perla / P. Volcánica / Jaspe",
+      "precio": "$8900",
+      "detalle del producto": ""
+    },
+    {
+      "id": 18,
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ_18-removebg-preview.png?raw=true",
+      "codigo": "PZ-18",
+      "nombre producto": "Pulsera Piedra Volcánica (Hombre)",
+      "precio": "$8900",
+      "detalle del producto": ""
+    },
+    {
+      "id": 19,
+      "image": "https://github.com/SebaChuaqui/PiedrasNaturales/blob/master/images/PZ_19-removebg-preview.png?raw=true",
+      "codigo": "PZ-19",
+      "nombre producto": "Pulsera Piedra Volcánica / Coral",
+      "precio": "$7900",
+      "detalle del producto": ""
     }
   ]
 }
