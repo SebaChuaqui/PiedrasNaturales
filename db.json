@@ -38,7 +38,7 @@
       "codigo": "PZ-05",
       "nombre producto": "Pulsera Lapislazuli",
       "precio": "$13900",
-      "detalle del producto": ""
+      "detalle del producto": "Diámetro Piedra: 6 mm. Fomenta la auto expresión y la autoconciencia"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "codigo": "PZ-06",
       "nombre producto": "Pulsera Ojo de Tigre / Citrino",
       "precio": "$8900",
-      "detalle del producto": ""
+      "detalle del producto": "Diámetro Piedra: 6 mm. Eleva la autoestima y la confianza, atrae la prosperidad"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "codigo": "PZ-07",
       "nombre producto": "Pulsera Ojo de Tigre / Onix",
       "precio": "$5900",
-      "detalle del producto": ""
+      "detalle del producto": "Diámetro Piedra: 6mm. Otorga fuerza y promueve el vigor"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "codigo": "PZ-08",
       "nombre producto": "Pulsera Onix / Coral / V. Blanca",
       "precio": "$6900",
-      "detalle del producto": ""
+      "detalle del producto": "Diámetro Piedra: 6mm. Tonifica el corazón y otorga fuerza"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "codigo": "PZ-09",
       "nombre producto": "Pulsera Onix / 7 Chakras ",
       "precio": "$5900",
-      "detalle del producto": ""
+      "detalle del producto": "Diámetro Piedra: 6mm. Otorga fuerza y promueve el vigor"
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "codigo": "PZ-10",
       "nombre producto": "Pulsera Cuarzo Rosa",
       "precio": "$6900",
-      "detalle del producto": ""
+      "detalle del producto": "Diámetro Piedra: 6mm. Otorga amor incondicional y facilita el perdón"
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "codigo": "PZ-11",
       "nombre producto": "Pulsera C. Rosa / Lapislazuli",
       "precio": "$9900",
-      "detalle del producto": ""
+      "detalle del producto": "Diámetro Piedra: 6mm. Fomenta la auto expresión y beneficia la auto estima"
     },
     {
       "id": 12,
@@ -94,7 +94,7 @@
       "codigo": "PZ-12",
       "nombre producto": "Pulsera Sodalita",
       "precio": "$5900",
-      "detalle del producto": ""
+      "detalle del producto": "Diámetro Piedra: 6mm. Estimula el tercer ojo y fomenta verbalizar los sentimientos"
     },
     {
       "id": 13,
@@ -102,7 +102,7 @@
       "codigo": "PZ-13",
       "nombre producto": "Pulsera Turquesa / Amatista",
       "precio": "$4900",
-      "detalle del producto": ""
+      "detalle del producto": "Diámetro Piedra: 4mm. Ofrece bienestar al cuerpo, ambas piedras son protectoras, infunde calma interna"
     },
     {
       "id": 14,
@@ -110,7 +110,7 @@
       "codigo": "PZ-14",
       "nombre producto": "Pulsera Piedra Volcánica",
       "precio": "$4900",
-      "detalle del producto": ""
+      "detalle del producto": "Diámetro Piedra: 4mm. Ofrece bienestar al cuerpo, ambas piedras son protectoras, infunde calma interna"
     },
     {
       "id": 15,
@@ -118,7 +118,7 @@
       "codigo": "PZ-15",
       "nombre producto": "Pulsera 7 Chakras",
       "precio": "$9900",
-      "detalle del producto": ""
+      "detalle del producto": "Diámetro Piedra: 6mm. Armoniza los siete chakras, ideal para meditar con cada uno"
     },
     {
       "id": 16,
@@ -126,7 +126,7 @@
       "codigo": "PZ-16",
       "nombre producto": "Pulsera Labradorita",
       "precio": "$6900",
-      "detalle del producto": ""
+      "detalle del producto": "Diámetro Piedra: 4mm. Calma la mente hiperactiva y disipa los miedos"
     },
     {
       "id": 17,
@@ -134,7 +134,7 @@
       "codigo": "PZ-17",
       "nombre producto": "Pulsera Perla / P. Volcánica / Coral",
       "precio": "$8900",
-      "detalle del producto": ""
+      "detalle del producto": "Diámetro Piedra: 6mm. Tonifica el corazón y revitaliza, absorbe energía negativas"
     },
     {
       "id": 18,
@@ -142,7 +142,7 @@
       "codigo": "PZ-18",
       "nombre producto": "Pulsera Piedra Volcánica (Hombre)",
       "precio": "$8900",
-      "detalle del producto": ""
+      "detalle del producto": "Diámetro Piedra: 4mm. Calma la mente hiperactiva y disipa los miedos."
     },
     {
       "id": 19,
@@ -150,7 +150,7 @@
       "codigo": "PZ-19",
       "nombre producto": "Pulsera Piedra Volcánica / Coral",
       "precio": "$7900",
-      "detalle del producto": ""
+      "detalle del producto": "Diámetro Piedra: 6mm. Tonifica el corazón y protege de malas energías"
     }
   ]
 }
